@@ -1,6 +1,5 @@
-# Business-Website
-https://dtanmay-02.github.io/Business-Website/
-Welcome to the Kings Mens N Sports Website Repository!
+# Website : https://dtanmay-02.github.io/Business-Website/
+# Welcome to the Kings Mens N Sports Website Repository!
 
 🌐 **Project Overview:**
 
